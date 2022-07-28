@@ -1,0 +1,26 @@
+body {
+    background-image:url('https://images.unsplash.com/photo-1499810631641-541e76d678a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbGF4fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+h1:hover {
+    background-color: rgb(0,255, 42);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    opacity: .35;
+
+}
+
+p:hover {
+    transform: scale(1.0);
+    background-color: red;
+    font-size: 20px;
+    color: black;
+}
+img { 
+    height: 5em;
+    width: 6em;
+}
